@@ -1,1 +1,1 @@
-# digital-identy-Management
+# digital-identity-Management
